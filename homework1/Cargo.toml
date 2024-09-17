@@ -1,0 +1,19 @@
+[package]
+name = "homework1"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "hw1_assgn_1"
+path = "src/hw1_assgn_1.rs"
+
+[[bin]]
+name = "hw1_assgn_2"
+path = "src/hw1_assgn_2.rs"
+
+[[bin]]
+name = "hw1_assgn_3"
+path = "src/hw1_assgn_3.rs"
+
+[dependencies]
+rand = "0.8"
