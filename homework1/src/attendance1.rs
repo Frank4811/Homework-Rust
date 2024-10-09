@@ -1,3 +1,11 @@
+/*Write a program
+Ask user about his or her car
+Create a struct car
+Populate from user input
+Save struct inside of user_info.txt
+Read user_info.txt and print the content on the screen
+Submit a screenshot and link to github*/
+
 use std::io::{self, Write, BufReader, BufRead}; // Import for input/output handling, including file reading/writing
 use std::fs::{File, OpenOptions}; // Import for file handling and OpenOptions
 

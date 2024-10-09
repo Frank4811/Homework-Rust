@@ -19,5 +19,9 @@ path = "src/hw1_assgn_3.rs"
 name = "attendance1"
 path = "src/attendance1.rs"
 
+[[bin]]
+name = "attendance2"
+path = "src/attendance2.rs"
+
 [dependencies]
 rand = "0.8"
