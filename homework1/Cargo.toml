@@ -27,5 +27,9 @@ path = "src/attendance1.rs"
 name = "attendance2"
 path = "src/attendance2.rs"
 
+[[bin]]
+name = "bank_account"
+path = "src/bank_account.rs"
+
 [dependencies]
 rand = "0.8"
